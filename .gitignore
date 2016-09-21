@@ -1,0 +1,19 @@
+# Python binaries
+*.pyc
+
+# PyCharm profile stuff
+.idea
+.idea/*
+
+# Mac system stuff
+.DS_Store
+
+# IPython
+.ipynb_checkpoints/*
+*.ipynb
+
+# Unit test html coverage files
+htmlcov
+.coverage
+.cache
+
